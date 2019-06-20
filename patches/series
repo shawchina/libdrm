@@ -1,0 +1,3 @@
+installtests.patch -p1
+fix_O_CLOEXEC_undeclared.patch -p1
+0001-configure.ac-Allow-explicit-enabling-of-cunit-tests.patch -p1

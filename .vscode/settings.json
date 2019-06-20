@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "MODETEST.C": "cpp",
+        "BUFFERS.C": "cpp",
+        "PATTERN.C": "cpp",
+        "MODESET-PLANE-TEST.C": "cpp"
+    }
+}
